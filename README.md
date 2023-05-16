@@ -1,13 +1,11 @@
-<h2 align="left">Hi 👋! My name is Muh. Deni Setiawan and I'm a Student, from University</h2>
+
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 ###
-
-<div align="center">
-  <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/021/890/251/original/alexander-streng-ezgif-com-optimize.gif?1573327466"  />
-</div>
+<h2 align="left">Hi 👋! My name is Muh. Deni Setiawan and I'm a Student, from University Technology Mataram</h2>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
