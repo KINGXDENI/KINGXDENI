@@ -41,9 +41,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/KING.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img height="200" src="https://cdnb.artstation.com/p/assets/images/images/021/890/251/original/alexander-streng-ezgif-com-optimize.gif?1573327466"  />
 </div>
 
 ###
