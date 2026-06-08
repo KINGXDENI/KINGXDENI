@@ -65,10 +65,12 @@
 
 ---
 
-<!-- QUOTE OF THE SYSTEM -->
+<!-- 3D SKYLINE SECTION -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000&quote_color=7AA2F7" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=kingxdeni&theme=neon&stats=true" width="100%" alt="3D Skyline" />
 </p>
+
+---
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=2&section=footer" width="100%" />
