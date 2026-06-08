@@ -22,7 +22,7 @@
 ### 🛠️ STACK OVERRIDE
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,nodejs,express,react,mongodb,mysql,git,github,vscode,pycharm,ps,au&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,nextjs,nodejs,express,react,mongodb,mysql,git,bots,docker,flutter,ps,androidstudio&theme=dark" />
   </marquee>
 </p>
 
