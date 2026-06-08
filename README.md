@@ -72,10 +72,4 @@
 
 ---
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=2&section=footer" width="100%" />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingxdeni&color=7aa2f7&style=flat-square&label=SYSTEM_ACCESS" />
-</p>
-
 </div>
