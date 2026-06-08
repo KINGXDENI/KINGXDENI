@@ -53,11 +53,11 @@
     <tr>
       <td width="50%" align="center">
         <p align="center"><b>NOW PLAYING</b></p>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g845e0qom4dd7tqheh4q9r42i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false" width="350" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g845e0qom4dd7tqheh4q9r42i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false" width="100%" />
       </td>
       <td width="50%" align="center">
         <p align="center"><b>COMMIT SNAKE</b></p>
-        <img src="https://raw.githubusercontent.com/kingxdeni/kingxdeni/output/github-contribution-grid-snake.svg" width="350" />
+        <img src="https://raw.githubusercontent.com/kingxdeni/kingxdeni/output/github-contribution-grid-snake.svg" width="100%" />
       </td>
     </tr>
   </table>
