@@ -51,7 +51,7 @@
     <tr>
       <td width="50%" align="center">
         <p align="center"><b>NOW_PLAYING</b></p>
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g845e0qom4dd7tqheh4q9r42i&cover_image=true&theme=tokyonight&bar_color=7aa2f7&bar_color_cover=false" width="350" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g845e0qom4dd7tqheh4q9r42i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false" width="350" />
       </td>
       <td width="50%" align="center">
         <p align="center"><b>COMMIT_SNAKE</b></p>
