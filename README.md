@@ -21,9 +21,9 @@
 <!-- CORE STACK - CLEAN ICONS -->
 ### 🛠️ STACK_OVERRIDE
 <p align="center">
-  <a href="https://skillicons.dev">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,nodejs,express,react,mongodb,mysql,git,github,vscode,pycharm,ps,au&theme=dark" />
-  </a>
+  </marquee>
 </p>
 
 ---
@@ -52,11 +52,11 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <p align="center"><b>NOW_PLAYING</b></p>
+        <p align="center"><b>NOW PLAYING</b></p>
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g845e0qom4dd7tqheh4q9r42i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=false" width="350" />
       </td>
       <td width="50%" align="center">
-        <p align="center"><b>COMMIT_SNAKE</b></p>
+        <p align="center"><b>COMMIT SNAKE</b></p>
         <img src="https://raw.githubusercontent.com/kingxdeni/kingxdeni/output/github-contribution-grid-snake.svg" width="350" />
       </td>
     </tr>
@@ -65,11 +65,23 @@
 
 ---
 
-<!-- 3D SKYLINE SECTION -->
-<p align="center">
-  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=kingxdeni&theme=neon&stats=true" width="100%" alt="3D Skyline" />
-</p>
+
+<!-- FEATURED PROJECTS (OPSI 3) -->
+### 📂 FEATURED_PROJECTS
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kingxdeni&repo=dmods&theme=tokyonight&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kingxdeni&repo=drouter&theme=tokyonight&hide_border=true" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=2&section=footer" width="100%" />
 
 </div>
