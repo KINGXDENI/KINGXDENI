@@ -65,20 +65,6 @@
 
 ---
 
-
-<!-- FEATURED PROJECTS (OPSI 3) -->
-### 📂 FEATURED PROJECTS
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kingxdeni&repo=dmods&hide_border=true" /></td>
-      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=kingxdeni&repo=Emptyvys&hide_border=true" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
 <br/>
 
 <!-- FOOTER -->
