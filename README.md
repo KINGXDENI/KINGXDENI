@@ -1,44 +1,77 @@
-
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-
-###
-<h2 align="left">Hi 👋! My name is Muh. Deni Setiawan and I'm a Student, from University Technology Mataram</h2>
-
-###
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-</div>
 
-###
+<!-- HEADER AREA -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00000000&height=250&section=header&text=MUH.%20DENI%20SETIAWAN&fontSize=70&animation=fadeIn&fontAlignY=50&fontColor=7AA2F7&desc=FULL%20STACK%20DEVELOPER%20|%20AI%20ENTHUSIAST&descSize=20&descAlignY=65" width="100%" />
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=kingxdeni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kingxdeni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- -->
-  <a href="https://github.com/kingxdeni">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kingxdeni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kingxdeni&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</div>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+Digital+Futures;Architecting+Scalable+Solutions;Crafting+Modern+Experiences" alt="Typing SVG" />
 
-###
+<br/>
 
-<img align="right" height="120" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
+<!-- SOCIAL BADGES MINIMALIST -->
+<p align="center">
+<a href="mailto:ds767365@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+<a href="https://instagram.com"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=7AA2F7" /></a>
+<a href="https://discord.com"><img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=7AA2F7" /></a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="ds767365@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<!-- CORE STACK - CLEAN ICONS -->
+### 🛠️ STACK_OVERRIDE
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,nodejs,express,react,mongodb,mysql,git,github,vscode,pycharm,ps,au&theme=dark" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</p>
+
+---
+
+<!-- STATS MATRIX - GLOW STYLE -->
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kingxdeni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=9ece6a" width="400"/></td>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kingxdeni&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7AA2F7&text_color=9ece6a" width="300"/></td>
+    </tr>
+  </table>
 </div>
 
-###
+<br/>
+
+<!-- ACTIVITY GRAPH - WIDE -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingxdeni&theme=tokyonight&hide_border=true&area=true&bg_color=00000000&color=7AA2F7" width="100%" />
+
+---
+
+<!-- SPOTIFY & SNAKE - SIDE BY SIDE -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <p align="center"><b>NOW_PLAYING</b></p>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=g845e0qom4dd7tqheh4q9r42i&cover_image=true&theme=tokyonight&bar_color=7aa2f7&bar_color_cover=false" width="350" />
+      </td>
+      <td width="50%" align="center">
+        <p align="center"><b>COMMIT_SNAKE</b></p>
+        <img src="https://raw.githubusercontent.com/kingxdeni/kingxdeni/output/github-contribution-grid-snake.svg" width="350" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- QUOTE OF THE SYSTEM -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=00000000&quote_color=7AA2F7" />
+</p>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7AA2F7&height=2&section=footer" width="100%" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kingxdeni&color=7aa2f7&style=flat-square&label=SYSTEM_ACCESS" />
+</p>
+
+</div>
