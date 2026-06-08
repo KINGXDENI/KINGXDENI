@@ -19,7 +19,7 @@
 ---
 
 <!-- CORE STACK - CLEAN ICONS -->
-### 🛠️ STACK_OVERRIDE
+### 🛠️ STACK OVERRIDE
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,python,nodejs,express,react,mongodb,mysql,git,github,vscode,pycharm,ps,au&theme=dark" />
@@ -67,7 +67,7 @@
 
 
 <!-- FEATURED PROJECTS (OPSI 3) -->
-### 📂 FEATURED_PROJECTS
+### 📂 FEATURED PROJECTS
 <div align="center">
   <table border="0">
     <tr>
